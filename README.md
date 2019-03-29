@@ -12,13 +12,13 @@ The link between health and happiness is one of the best-documented in the study
 Data sources:
 
 World Happiness Index
-Datasource: The World Happiness Report, 2015-17.
-Final data represents average happiness score, economy, and life expectancy for each country in 2015-17.
+* Datasource: The World Happiness Report, 2015-17.
+* Final data represents average happiness score, economy, and life expectancy for each country in 2015-17.
 
 World Medical Expense 
-Datasource: Global Health Expenditure Database from the World Bank
-Data represents average medical expenses from 2005-15, in % GDP. We want to examine the effect of long-term medical expenditure on happiness level.
+* Datasource: Global Health Expenditure Database from the World Bank
+* Data represents average medical expenses from 2005-15, in % GDP. We want to examine the effect of long-term medical expenditure on happiness level.
 
 Healthcare Resources Data Cleanup
-Datasource: World Development Indicators from the World Bank.
-Data from years 2015-17 were used to match the timeframe of happiness index data.
+* Datasource: World Development Indicators from the World Bank.
+* Data from years 2015-17 were used to match the timeframe of happiness index data.
